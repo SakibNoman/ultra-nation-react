@@ -4,4 +4,18 @@
   min-height: 100vh;
   font-size: calc(10px + 2hmin);
   color: white;
+  display: flex;
+  justify-content:center;
+}
+.cart{
+  width: 15%;
+  margin-left: 94px;
+  position: fixed;
+  left: 75%;
+  border-left: 2px solid gray;
+  padding-left:15px
+
+}
+.allcard{
+  width:60%
 }
