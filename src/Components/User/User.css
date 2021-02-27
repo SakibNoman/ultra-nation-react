@@ -1,0 +1,21 @@
+.main{
+    display:flex;
+    justify-content:center;
+}
+.user-card{
+    display:flex;
+    background-color: #ffffff3d ;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 15px;
+    align-items: center;
+    padding: 15px;
+    width:50%;
+    border-radius: 15px
+}
+.user-card img {
+    border-radius: 15px
+}
+.info-box{
+    width:70%
+}
